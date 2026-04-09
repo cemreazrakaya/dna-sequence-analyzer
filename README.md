@@ -8,4 +8,6 @@ This project is a simple bioinformatics script written in Python to analyze DNA 
 ## Tools Used
 - Python
 ## Purpose
-This Project was created as an introduction to bioinformatics
+This Project was created as an introduction to bioinformatics and biological data analysis using Python.
+## Author
+Cemre Azra Kaya

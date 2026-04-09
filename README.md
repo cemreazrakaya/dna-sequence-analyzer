@@ -1,4 +1,4 @@
-#  DNA Sequence Analysis (Python)
+#  DNA Sequence Analyzer
 This project is a simple bioinformatics script written in Python to analyze DNA s
 ## What does it do?
 - Counts the number of each nucleotide (A, T, G, C)
